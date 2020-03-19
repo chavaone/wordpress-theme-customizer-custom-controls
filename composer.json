@@ -13,5 +13,6 @@
     ],
     "autoload": {
         "classmap": ["date/", "layout/", "select/", "text/"]
-    }
+    },
+    "minimum-stability": "dev"
 }
