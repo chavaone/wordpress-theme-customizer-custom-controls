@@ -1,0 +1,17 @@
+{
+    "name": "aquelando/wp-customizer-controls",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Marcos Chavarría Teijeiro",
+            "email": "chavarria1991@gmail.com"
+        },
+        {
+          "name": "Paul Underwood",
+          "email": " paul@paulund.co.uk"
+        }
+    ],
+    "autoload": {
+        "classmap": ["date/", "layout/", "select/", "text/"]
+    }
+}
